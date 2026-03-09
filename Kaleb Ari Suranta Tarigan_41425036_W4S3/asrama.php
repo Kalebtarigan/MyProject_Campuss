@@ -22,6 +22,7 @@ class asrama extends hunian implements aktivitas {
     public function infoHunian() {
         return "Asrama {$this->dorm_name} dipimpin oleh {$this->pembina_asrama}<br>";
     }
+    ggghgvhgvhgvh
 
     // aktivitas bangun tidur
     public function bangunTidur() {
