@@ -1,0 +1,1 @@
+Saya Menggunakan AI untuk memahami beberapa penggunaan kode
